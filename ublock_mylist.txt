@@ -237,4 +237,5 @@ hopamviet.vn##p:nth-of-type(18)
 
 ! 2023-01-01 https://pcsupport.lenovo.com
 pcsupport.lenovo.com##.cookie-remind-warpper
+||cdn2-img.net/*.gif
 
