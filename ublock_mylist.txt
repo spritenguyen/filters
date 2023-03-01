@@ -1,3 +1,30 @@
+! 2023-02-04 https://www.douyin.com
+www.douyin.com##.login-mask-enter-done.screen-mask.mPWahmAI
+
+! 2023-02-21 https://movie.vkool.org
+movie.vkool.org###popup-giua-man-hinh
+
+! 2023-02-22 https://www.dailymotion.com
+www.dailymotion.com##.CookiePopup__desktopContainer____u4u4
+
+! 2023-02-24 https://daominhha.net
+||daominhha.net/wp-content/themes/hncgamingtheme/images/overlay.png$image
+daominhha.net##.ai-center-v.ai-center-h.code-block-5.code-block
+daominhha.net##.ai-viewport-1:nth-of-type(2)
+
+! 2023-02-24 https://soundcloud.com
+soundcloud.com###onetrust-consent-sdk
+
+! 2023-02-25 https://phimcuon.com
+phimcuon.com###ads_preload
+
+! 2023-02-26 https://vn.vlxxtube.cc
+vn.vlxxtube.cc###popupContact
+vn.vlxxtube.cc##.popup_u
+
+! 2023-02-26 https://vn.bignox.com
+vn.bignox.com##.download-tip-section
+
 ! author: zNDB
 ! 2022-11-20 https://keonhacai5.com
 keonhacai5.com##.row > center
@@ -21,7 +48,6 @@ keonhacai5.com###med_rec_banner2
 ! 2022-11-22 https://biphims.com
 ||a.cdn-img.net/*.gif$image
 
-
 ! 2022-11-22 https://biphim.to
 biphim.to##.box_odds
 
@@ -37,21 +63,6 @@ truyenvnhot.com##.aligncenter
 truyentranhtuan.com###sidebar > div > form
 
 ||static.mangahere.cc/v20210106/mangahere/images/fix-left-y.png
-
-! 2022-11-26 https://voz.vn
-voz.vn##li:nth-of-type(4) > .p-navEl > .p-navEl-link
-voz.vn##.message-inner:has(.message-name:has-text(viemganB))
-voz.vn##.message-inner:has(.message-name:has-text(456789))
-voz.vn##.message-inner:has(.message-name:has-text(Long Khoa Học))
-voz.vn##.message-inner:has(.message-name:has-text(nhutnam95tg))
-voz.vn##.message-inner:has(.message-name:has-text(vozer ghen an tuc o))
-voz.vn##li:nth-of-type(4) > .offCanvasMenu-linkHolder > .offCanvasMenu-link
-voz.vn##.message-inner:has(.message-name:has-text(AlanTDave))
-voz.vn##.message-inner:has(.message-name:has-text(Phở bò chín))
-voz.vn##.message-inner:has(.message-name:has-text(Kwon JiYong))
-voz.vn##.message-inner:has(.message-name:has-text(it_support))
-voz.vn##.message-inner:has(.message-name:has-text(quang.tpcom))
-
 
 ! 2022-11-27 https://daominhha.net
 ||daominhha.net/wp-content/uploads/2022/05/sun86-no-hu.jpg$image
@@ -69,7 +80,6 @@ haysex.net##.ads-header.ads-mobile.xx-ads
 missav.com##.under_player > div.lg\:hidden > .mx-auto
 missav.com##.banner-300.mx-auto
 missav.com##body > div > .mb-5.space-y-5 > .lg\:hidden > .mx-auto
-
 
 ||truyenvnhot.com/wp-content/uploads/2022/09/banner-five88-new-465x60-1.gif$image
 truyenvnhot.com##.text-center > div.aligncenter
@@ -140,7 +150,6 @@ www.pinterest.com##.Hsu.iyn.zI7.snW.ojN._he.Umk.Pyg.Hvp
 
 ! 2022-12-12 https://www.flickr.com
 www.flickr.com##.foot-banner-style.basic-banner
-
 
 voz.vn##.message-inner:has(.message-name:has-text(gaconkute))
 
@@ -243,9 +252,37 @@ pcsupport.lenovo.com##.cookie-remind-warpper
 biphims.co##div#ads_top_2.ads_top:nth-of-type(1)
 biphims.co##div#ads_top_2.ads_top:nth-of-type(2)
 
-
 ! 2023-03-01 https://phimvietsub.org
 phimvietsub.org##.css-mobile-banner
 phimvietsub.org##.blockbody > center
 phimvietsub.org##.sda-close
+
+! 2023-01-13 https://bichill.me
+bichill.me##.container.banner-sticky-footer-container
+
+! 2023-01-16 https://www.speedtest.net
+www.speedtest.net##.notification-content > p
+www.speedtest.net##.notification-container > div > .notification
+
+! 2023-01-17 https://twitter.com
+twitter.com##.r-13qz1uu.r-1f1sjgu.r-1knelpx.r-ymttw5.r-1d7fvdj.r-eqz5dr.r-15ce4ve.r-1sw30gj.r-1awozwy.css-1dbjc4n
+
+! 2023-01-17 https://steamcommunity.com
+steamcommunity.com##.cookiepreferences_popup_content
+
+! 2023-01-21 https://gocphim.net
+||imgyn.imageshh.com/vn-tu/*.gif$image
+gocphim.net##.top-header-ads-mobile
+gocphim.net###mobiads
+gocphim.net###hide_catfish
+gocphim.net##.fb-load-comment-icon-control
+
+! 2023-01-26 https://gocphim.net
+gocphim.net##.videoads-link-target
+gocphim.net##.ready-ad.self-adContainer-control.other-ads-container
+
+! 2023-02-22 https://phimcuon.com
+
+! 2023-02-26 https://hvdic.thivien.net
+hvdic.thivien.net##.notification
 
