@@ -286,3 +286,13 @@ gocphim.net##.ready-ad.self-adContainer-control.other-ads-container
 ! 2023-02-26 https://hvdic.thivien.net
 hvdic.thivien.net##.notification
 
+! 2023-03-26 https://m.youtube.com
+m.youtube.com##ytm-rich-item-renderer:nth-of-type(1)
+
+! 2023-04-10 https://hellobacsi.com
+hellobacsi.com##.le-newbuilder-LightBoxA.lead-modal__content
+||cdn.hellobacsi.com/wp-content/uploads/2021/08/vismed-la-thuoc-gi.jpg$image
+
+! 2023-04-10 https://subnhanh1.com
+subnhanh1.com###ads-preload
+
