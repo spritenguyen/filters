@@ -296,3 +296,6 @@ hellobacsi.com##.le-newbuilder-LightBoxA.lead-modal__content
 ! 2023-04-10 https://subnhanh1.com
 subnhanh1.com###ads-preload
 
+||192.168.$third-party
+||127.0.0.1$third-party
+||localhost$third-party
