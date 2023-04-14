@@ -299,3 +299,7 @@ subnhanh1.com###ads-preload
 ||192.168.$third-party
 ||127.0.0.1$third-party
 ||localhost$third-party
+
+! 2023-04-13 https://phimmoinay.tv
+phimmoinay.tv###popup_banner_beta
+||phimmoinay.tv/f8bet320x50.gif$image
