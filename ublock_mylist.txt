@@ -303,3 +303,19 @@ subnhanh1.com###ads-preload
 ! 2023-04-13 https://phimmoinay.tv
 phimmoinay.tv###popup_banner_beta
 ||phimmoinay.tv/f8bet320x50.gif$image
+
+! 2023-05-04 https://mixphim.co
+mixphim.co###mp-preload > div
+mixphim.co###mp-preload-popup-overlay
+
+! 2023-05-04 https://www1.247phim.cc
+www1.247phim.cc##.popUpBannerBox
+
+! 2023-05-04 https://phimmoi9.net
+phimmoi9.net###_AM_POPUP_FRAME
+
+! 2023-05-04 https://www.zingtv.com
+www.zingtv.com##.overflow-y-auto
+
+! 2023-05-09 https://anime47.com
+||img.anime47.com/imgur/*.gif$image
