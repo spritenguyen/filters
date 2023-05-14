@@ -317,5 +317,3 @@ phimmoi9.net###_AM_POPUP_FRAME
 ! 2023-05-04 https://www.zingtv.com
 www.zingtv.com##.overflow-y-auto
 
-! 2023-05-09 https://anime47.com
-||img.anime47.com/imgur/*.gif$image
