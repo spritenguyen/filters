@@ -317,3 +317,9 @@ phimmoi9.net###_AM_POPUP_FRAME
 ! 2023-05-04 https://www.zingtv.com
 www.zingtv.com##.overflow-y-auto
 
+! 2023-06-04 https://motchill2.com
+||i.imgur.com/*.jpeg$image
+motchill2.com##[href="javascript:void(0)"]
+motchill2.com###mp-preload-popup-overlay
+motchill2.com###floating_ads_bottom_textcss_container
+motchill2.com###ads-preload
