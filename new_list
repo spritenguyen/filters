@@ -1,1 +1,32 @@
+!voz.vn
+!remove slidebar voz.vn
+voz.vn##[class^="p-body-sidebar"]
+!can chinh voz.vn
+voz.vn##.p-body:style(padding-left : 30px !important)
+voz.vn##.p-body:style(padding-right : 30px !important)
+voz.vn##.js-offCanvasNavSource.p-nav-list > li:nth-of-type(4)
 
+!web xem phim
+! 2022-11-21 https://xvideos98.xxx
+||qph.fs.quoracdn.net/main-qimg-5d5568c87bf7bfb62c8d35ab7664c35c$image
+||qph.fs.quoracdn.net/$image
+||qph.cf2.quoracdn.net/main-qimg-20cf473505c674c937df7fb6333ea863$image
+||qph.cf2.quoracdn.net/$image
+! 2022-11-26 https://haysex.net
+||vlxyz.tv/themes/img/*.jpeg$image
+
+! 2022-11-22 https://biphims.com
+||a.cdn-img.net/*.gif$image
+biphim.to##.box_odds
+! 2022-12-06 https://subnhanhz.net
+||subnhanhz.net/logo1.png$image
+! 2022-12-13 https://thichxemphim.net
+||thichxemphim.net/cdn-cgi/mirage/d05ded768986a1fadf753d92cab361f80e1bfd0b61b4f955fb25e73c355b9cf2/1280/https://txp-storage.sgp1.digitaloceanspaces.com/wp-content/uploads/2022/12/11142953/i9-11122022.jpeg$image
+thichxemphim.net##.popup-banners
+||thichxemphim.net/cdn-cgi/mirage/d05ded768986a1fadf753d92cab361f80e1bfd0b61b4f955fb25e73c355b9cf2/1280/https://txp-storage.sgp1.digitaloceanspaces.com/wp-content/uploads/2022/11/23090502/fb88_wc2022-2.gif$image
+||thichxemphim.net/cdn-cgi/mirage/d05ded768986a1fadf753d92cab361f80e1bfd0b61b4f955fb25e73c355b9cf2/1280/https://txp-storage.sgp1.digitaloceanspaces.com/wp-content/uploads/2022/12/08094142/728-x-90-VTN.gif$image
+!youtube
+##.videowall-endscreen
+youtube.com##.html5-endscreen-content
+youtube.com##.html5-endscreen
+youtube.com##.ytp-ce-element
