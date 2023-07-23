@@ -5,6 +5,8 @@ voz.vn##[class^="p-body-sidebar"]
 !voz.vn##.p-body:style(padding-left : 30px !important)
 !voz.vn##.p-body:style(padding-right : 30px !important)
 !voz.vn##.js-offCanvasNavSource.p-nav-list > li:nth-of-type(4)
+voz.vn##.message-inner:has(.message-name:has-text(gaconkute))
+voz.vn##.message-inner:has(.message-name:has-text(gelu567890))
 
 !web xem phim
 ! 2022-11-21 https://xvideos98.xxx
