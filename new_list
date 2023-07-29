@@ -13,6 +13,8 @@ voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hồi ức
 !vnexpress.net
 vnexpress.net##.inner_section:has(.title_news:has-text(Huỳnh Như))
 vnexpress.net##.inner_section:has(.title_news:has-text(Messi))
+vnexpress.net##.inner_section:has(.title_news:has-text(Lương Thùy Linh))
+vnexpress.net##.inner_section:has(.title_news:has-text(Tiểu Vy))
 
 !web xem phim
 ! 2022-11-21 https://xvideos98.xxx
