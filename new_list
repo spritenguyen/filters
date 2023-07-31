@@ -17,6 +17,13 @@ vnexpress.net##.flexbox.full-thumb:has(.title-news:has-text(Lương Thùy Linh))
 vnexpress.net##.flexbox.full-thumb:has(.title-news:has-text(Tiểu Vy))
 
 !web xem phim
+! 2023-07-31 https://tvday.me
+tvday.me##.a--d-wrapper
+||i.imgur.com/*.jpg
+tvday.me##.float-ck-center-lt
+tvday.me##div.text-center.widget_text > .custom-html-widget.textwidget
+
+
 ! 2022-11-21 https://xvideos98.xxx
 ||qph.fs.quoracdn.net/main-qimg-5d5568c87bf7bfb62c8d35ab7664c35c$image
 ||qph.fs.quoracdn.net/$image
