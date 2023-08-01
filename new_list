@@ -9,12 +9,22 @@ voz.vn##.message-inner:has(.message-name:has-text(gaconkute))
 voz.vn##.message-inner:has(.message-name:has-text(gelu567890))
 voz.vn##.node-body:has(.node-title:has-text(Góp ý))
 voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hồi ức về hệ điều hành Symbian (1998-2010)))
+voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hội chơi cáp và sạc - Tất tần tật về công nghệ, thương hiệu, khuyến mại,...))
+voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Thảo luận về root bằng Magisk, module, giải pháp ẩn root cho phiên bản mới (24+)))
 
 !vnexpress.net
 vnexpress.net##.inner_section:has(.title_news:has-text(Huỳnh Như))
 vnexpress.net##.inner_section:has(.title_news:has-text(Messi))
 vnexpress.net##.flexbox.full-thumb:has(.title-news:has-text(Lương Thùy Linh))
 vnexpress.net##.flexbox.full-thumb:has(.title-news:has-text(Tiểu Vy))
+vnexpress.net##.art_with_border:has(.title_news:has-text(Blackpink))
+!vnexpress.net##.init-preloaded:has(h1>.play_video:has-text(Blackpink))
+vnexpress.net##.init-preloaded:has(.play_video:has-text(Blackpink))
+vnexpress.net##.gaBoxLinkDisplay:has(.title_news:has-text(Blackpink))
+vnexpress.net##.inner_section:has(.title_news:has-text(Blackpink))
+vnexpress.net##.news_home:has(.title_news,.short_intro:has-text(Lương Thùy Linh))
+vnexpress.net##.news_home:has(.short_intro:has-text(Giáng My))
+vnexpress.net##.wrapper_detail:has(.title_video:has-text(Blackpink))
 
 !web xem phim
 ! 2023-07-31 https://tvday.me
@@ -46,6 +56,9 @@ biphims.co###ads_top2
 thichxemphim.net##.popup-banners
 ||thichxemphim.net/cdn-cgi/mirage/d05ded768986a1fadf753d92cab361f80e1bfd0b61b4f955fb25e73c355b9cf2/1280/https://txp-storage.sgp1.digitaloceanspaces.com/wp-content/uploads/2022/11/23090502/fb88_wc2022-2.gif$image
 ||thichxemphim.net/cdn-cgi/mirage/d05ded768986a1fadf753d92cab361f80e1bfd0b61b4f955fb25e73c355b9cf2/1280/https://txp-storage.sgp1.digitaloceanspaces.com/wp-content/uploads/2022/12/08094142/728-x-90-VTN.gif$image
+
+! 2023-07-29 https://iamscum.wordpress.com
+iamscum.wordpress.com##.ads-active.hide-on-button
 
 !youtube
 ##.videowall-endscreen
