@@ -26,6 +26,10 @@ vnexpress.net##.news_home:has(.title_news,.short_intro:has-text(Lương Thùy Li
 vnexpress.net##.news_home:has(.short_intro:has-text(Giáng My))
 vnexpress.net##.wrapper_detail:has(.title_video:has-text(Blackpink))
 
+! 2023-08-03 https://www.nhaccuatui.com
+www.nhaccuatui.com##.new_header.sub-menu-header
+||stc-id.nixcdn.com/v11/images/www_index_top_banner2.jpg
+
 !web xem phim
 ! 2023-07-31 https://tvday.me
 tvday.me##.a--d-wrapper
