@@ -26,6 +26,8 @@ vnexpress.net##.inner_section:has(.title_news:has-text(Blackpink))
 vnexpress.net##.news_home:has(.title_news,.short_intro:has-text(Lương Thùy Linh))
 vnexpress.net##.news_home:has(.short_intro:has-text(Giáng My))
 vnexpress.net##.wrapper_detail:has(.title_video:has-text(Blackpink))
+vnexpress.net##.item-news-common:has(.description:has-text(Blackpink))
+vnexpress.net##.article-topstory:has(.description:has-text(Blackpink))
 
 ! 2023-08-03 https://www.nhaccuatui.com
 www.nhaccuatui.com##.new_header.sub-menu-header
