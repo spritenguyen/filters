@@ -13,6 +13,9 @@ voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hội chơ
 voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Thảo luận về root bằng Magisk, module, giải pháp ẩn root cho phiên bản mới (24+)))
 voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hội Chinese phone))
 
+||shopee.vn
+truyen35.vn##+js(acs, jQuery, click_ads)
+
 !vnexpress.net
 vnexpress.net##.inner_section:has(.title_news:has-text(Huỳnh Như))
 vnexpress.net##.inner_section:has(.title_news:has-text(Messi))
