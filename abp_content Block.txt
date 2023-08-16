@@ -1,1 +1,77 @@
+!voz.vn
+!remove slidebar voz.vn
+voz.vn##[class^="p-body-sidebar"]
+!can chinh voz.vn
+!voz.vn##.p-body:style(padding-left : 30px !important)
+!voz.vn##.p-body:style(padding-right : 30px !important)
+!voz.vn##.js-offCanvasNavSource.p-nav-list > li:nth-of-type(4)
+voz.vn##.message-inner:has(.message-name:has-text(gaconkute))
+voz.vn##.message-inner:has(.message-name:has-text(gelu567890))
+voz.vn##.node-body:has(.node-title:has-text(Góp ý))
 voz.vn##.structItem--thread.structItem:-abp-has(.structItem-title:-abp-contains(Hồi ức về hệ điều hành Symbian (1998-2010)))
+voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hội chơi cáp và sạc - Tất tần tật về công nghệ, thương hiệu, khuyến mại,...))
+voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Thảo luận về root bằng Magisk, module, giải pháp ẩn root cho phiên bản mới (24+)))
+voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hội Chinese phone))
+truyen35.vn##+js(acs, jQuery, click_ads)
+||bf.333xbet.com/*/*.mp4
+!vnexpress.net
+vnexpress.net##.inner_section:has(.title_news:has-text(Huỳnh Như))
+vnexpress.net##.inner_section:has(.title_news:has-text(Messi))
+vnexpress.net##.flexbox.full-thumb:has(.title-news:has-text(Lương Thùy Linh))
+vnexpress.net##.flexbox.full-thumb:has(.title-news:has-text(Tiểu Vy))
+vnexpress.net##.art_with_border:has(.title_news:has-text(Blackpink))
+!vnexpress.net##.init-preloaded:has(h1>.play_video:has-text(Blackpink))
+vnexpress.net##.init-preloaded:has(.play_video:has-text(Blackpink))
+vnexpress.net##.gaBoxLinkDisplay:has(.title_news:has-text(Blackpink))
+vnexpress.net##.inner_section:has(.title_news:has-text(Blackpink))
+vnexpress.net##.news_home:has(.title_news,.short_intro:has-text(Lương Thùy Linh))
+vnexpress.net##.news_home:has(.short_intro:has-text(Giáng My))
+vnexpress.net##.wrapper_detail:has(.title_video:has-text(Blackpink))
+vnexpress.net##.item-news-common:has(.description:has-text(Blackpink))
+vnexpress.net##.article-topstory:has(.description:has-text(Blackpink))
+vnexpress.net##.item-gocnhin:has(.title-news:has-text(Blackpink))
+vnexpress.net##.item-gocnhin:has(.description:has-text(Blackpink))
+! 2023-08-03 https://www.nhaccuatui.com
+www.nhaccuatui.com##.new_header.sub-menu-header
+||stc-id.nixcdn.com/v11/images/www_index_top_banner2.jpg
+!web xem phim
+! 2023-08-05 https://phimtho.tv
+phimtho.tv###popup_banner_beta
+||phimtho.tv/ads/popup/i9bet85/400x300.jpg
+
+! 2023-07-31 https://tvday.me
+tvday.me##.a--d-wrapper
+||i.imgur.com/*.jpg
+tvday.me##.float-ck-center-lt
+tvday.me##div.text-center.widget_text > .custom-html-widget.textwidget
+! 2022-11-21 https://xvideos98.xxx
+||qph.fs.quoracdn.net/main-qimg-5d5568c87bf7bfb62c8d35ab7664c35c$image
+||qph.fs.quoracdn.net/$image
+||qph.cf2.quoracdn.net/main-qimg-20cf473505c674c937df7fb6333ea863$image
+||qph.cf2.quoracdn.net/$image
+! 2022-11-26 https://haysex.net
+||vlxyz.tv/themes/img/*.jpeg$image
+! 2022-11-22 https://biphims.com
+||a.cdn-img.net/*.gif$image
+||cdn2-img.net/*.gif$image
+biphim.to##.box_odds
+biphims.co###ads_top2
+! 2022-12-06 https://subnhanhz.net
+||subnhanhz.net/logo1.png$image
+! 2022-12-13 https://thichxemphim.net
+||thichxemphim.net/cdn-cgi/mirage/d05ded768986a1fadf753d92cab361f80e1bfd0b61b4f955fb25e73c355b9cf2/1280/https://txp-storage.sgp1.digitaloceanspaces.com/wp-content/uploads/2022/12/11142953/i9-11122022.jpeg$image
+thichxemphim.net##.popup-banners
+||thichxemphim.net/cdn-cgi/mirage/d05ded768986a1fadf753d92cab361f80e1bfd0b61b4f955fb25e73c355b9cf2/1280/https://txp-storage.sgp1.digitaloceanspaces.com/wp-content/uploads/2022/11/23090502/fb88_wc2022-2.gif$image
+||thichxemphim.net/cdn-cgi/mirage/d05ded768986a1fadf753d92cab361f80e1bfd0b61b4f955fb25e73c355b9cf2/1280/https://txp-storage.sgp1.digitaloceanspaces.com/wp-content/uploads/2022/12/08094142/728-x-90-VTN.gif$image
+! 2023-07-29 https://iamscum.wordpress.com
+iamscum.wordpress.com##.ads-active.hide-on-button
+!youtube
+##.videowall-endscreen
+youtube.com##.html5-endscreen-content
+youtube.com##.html5-endscreen
+youtube.com##.ytp-ce-element
+||www.youtube.com/embed/
+youtube.com###masthead-ad
+youtube.com##.ytd-rich-item-renderer:has(.ytd-badge-supported-renderer:has-text(Quảng cáo))
+||i1.ytimg.com/vi/aLwqffZyVb0/0.jpg
+||i1.ytimg.com/vi/aLwqffZyVb0/*.jpg$image
