@@ -8,7 +8,7 @@ voz.vn##[class^="p-body-sidebar"]
 !voz.vn##.message-inner:has(.message-name:has-text(gaconkute))
 !voz.vn##.message-inner:has(.message-name:has-text(gelu567890))
 !voz.vn##.node-body:has(.node-title:has-text(Góp ý))
-!voz.vn#?#.structItem--thread.structItem:-abp-has(.structItem-title:-abp-contains(Hồi ức về hệ điều hành Symbian (1998-2010)))
+voz.vn#?#.structItem--thread.structItem:-abp-has(.structItem-title:-abp-contains(Hồi ức về hệ điều hành Symbian (1998-2010)))
 !voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hội chơi cáp và sạc - Tất tần tật về công nghệ, thương hiệu, khuyến mại,...))
 !voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Thảo luận về root bằng Magisk, module, giải pháp ẩn root cho phiên bản mới (24+)))
 !voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hội Chinese phone))
