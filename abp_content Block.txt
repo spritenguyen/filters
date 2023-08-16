@@ -1,0 +1,1 @@
+voz.vn##.structItem--thread.structItem:-abp-has(.structItem-title:-abp-contains(Hồi ức về hệ điều hành Symbian (1998-2010)))
