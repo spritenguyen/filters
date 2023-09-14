@@ -7,16 +7,16 @@ voz.vn##[class^="p-body-sidebar"]
 !voz.vn##.js-offCanvasNavSource.p-nav-list > li:nth-of-type(4)
 voz.vn##.message-inner:has(.message-name:has-text(gaconkute))
 voz.vn##.message-inner:has(.message-name:has-text(gelu567890))
-!voz.vn##.node-body:has(.node-title:has-text(Góp ý))
-!voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hồi ức về hệ điều hành Symbian (1998-2010)))
-!voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hội chơi cáp và sạc - Tất tần tật về công nghệ, thương hiệu, khuyến mại,...))
-!voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Thảo luận về root bằng Magisk, module, giải pháp ẩn root cho phiên bản mới (24+)))
-!voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hội Chinese phone))
+voz.vn##.node-body:has(.node-title:has-text(Góp ý))
+voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hồi ức về hệ điều hành Symbian (1998-2010)))
+voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hội chơi cáp và sạc - Tất tần tật về công nghệ, thương hiệu, khuyến mại,...))
+voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Thảo luận về root bằng Magisk, module, giải pháp ẩn root cho phiên bản mới (24+)))
+voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hội Chinese phone))
 truyen35.vn##+js(acs, jQuery, click_ads)
-!||bf.333xbet.com/*/*.mp4
+||bf.333xbet.com/*/*.mp4
 *.mp4^$domain=90phut9.live|thapcam.net|vebo3.org|xoilac12.org|90phut.click|4shares.live
 *.gif^$domain=90phut9.live|thapcam.net|vebo3.org|xoilac12.org|4shares.live
-!||photo2.tinhte.vn/data/attachment-files/*/*/*.gif$image
+||photo2.tinhte.vn/data/attachment-files/*/*/*.gif$image
 !vnexpress.net
 vnexpress.net##.inner_section:has(.title_news:has-text(Huỳnh Như))
 vnexpress.net##.inner_section:has(.title_news:has-text(Messi))
@@ -52,7 +52,7 @@ motchilltv.info##.banner-flex
 ||motchilltv.info/close_button.png
 ! 2023-07-31 https://tvday.me
 tvday.me##.a--d-wrapper
-||i.imgur.com/*.jpg
+!||i.imgur.com/*.jpg
 tvday.me##.float-ck-center-lt
 tvday.me##div.text-center.widget_text > .custom-html-widget.textwidget
 ! 2022-11-21 https://xvideos98.xxx
