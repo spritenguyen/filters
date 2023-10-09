@@ -1,3 +1,4 @@
+voz.vn##.js-notice.notice
 !voz.vn
 !remove slidebar voz.vn
 voz.vn##[class^="p-body-sidebar"]
