@@ -1,3 +1,18 @@
+! Suggested for you
+www.facebook.com##[aria-posinset] div:not(:only-child)>div:only-child>div:only-child>div:first-child[class=""]>div:not([data-0]):has-text(/^Suggested/):upward([aria-posinset])
+! People You May Know
+www.facebook.com##[aria-posinset] [aria-label="See all"][href="/friends/"]:upward([aria-posinset])
+! Suggested groups
+www.facebook.com##[aria-posinset] [aria-label="See more groups"][href="/groups/discover/"]:upward([aria-posinset])
+! Reels and short videos
+www.facebook.com##[aria-posinset] [aria-label="See more"][href="/reel/?s=ifu_see_more"]:upward([aria-posinset])
+! Suggested pages
+www.facebook.com##[aria-posinset] [aria-label="Suggested pages"]:upward([aria-posinset])
+
+---Mobile---
+! Suggested for you (mobile)
+m.facebook.com##[data-mcomponent="MScreen"]>div[class="m"]>div:has-text(Suggested for you)
+
 voz.vn##.js-notice.notice
 !voz.vn
 !remove slidebar voz.vn
