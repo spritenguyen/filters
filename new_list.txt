@@ -1,3 +1,9 @@
+! 2024-02-11 https://vivufilm.com
+||vivufilm.com/*.gif$image
+vivufilm.com##[href^="https://missbet1.com/"] > .ads
+vivufilm.com###pv-float-bar-container
+*$csp=worker-src 'none',from=~example1.com|~example2.com
+
 ! Suggested for you
 www.facebook.com##[aria-posinset] div:not(:only-child)>div:only-child>div:only-child>div:first-child[class=""]>div:not([data-0]):has-text(/^Suggested/):upward([aria-posinset])
 ! People You May Know
