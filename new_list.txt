@@ -1,3 +1,8 @@
+###comment-tab
+||www.facebook.com/v7.0/plugins/comments.php
+||www.facebook.com/v7.0/plugins/comments.php?app_id=711081303025670&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df3d0710067495b28d%26domain%3Dmotchilli.net%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fmotchilli.net%252Ffea4794f86b69eef7%26relation%3Dparent.parent&color_scheme=light&container_width=650&height=100&href=https%3A%2F%2Flink.motphim.vip%2Fphim%2Ftro-choi-kim-tu-thap-12272.html&locale=vi_VN&numposts=10&order_by=reverse_time&sdk=joey&version=v7.0&width=650
+
+
 ! 2024-03-05 https://vivufilm.com
 ||vivufilm.com/img/item_bgg.gif$image
 vivufilm.com##.block-comments.page-single.block-wrapper
