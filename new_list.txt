@@ -2,6 +2,7 @@
 ##div.container > .comment
 ##.tab-content
 ##.lazy-module.main-tab.nav-tabs.nav
+##.lazy-module.nav-tabs.nav
 
 ! 2024-03-09
 ##.sda-catfish.sda-wrapper
