@@ -1,5 +1,6 @@
 ! 2024-03-13
 ##div.container > .comment
+##.tab-content
 
 ! 2024-03-09
 ##.sda-catfish.sda-wrapper
