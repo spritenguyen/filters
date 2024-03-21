@@ -121,10 +121,3 @@ thichxemphim.net##.popup-banners
 ||thichxemphim.net/cdn-cgi/mirage/d05ded768986a1fadf753d92cab361f80e1bfd0b61b4f955fb25e73c355b9cf2/1280/https://txp-storage.sgp1.digitaloceanspaces.com/wp-content/uploads/2022/12/08094142/728-x-90-VTN.gif$image
 ! 2023-07-29 https://iamscum.wordpress.com
 iamscum.wordpress.com##.ads-active.hide-on-button
-
-!youtube
-##.videowall-endscreen
-youtube.com##.html5-endscreen-content
-youtube.com##.html5-endscreen
-youtube.com##.ytp-ce-element
-youtube.com###masthead-ad
