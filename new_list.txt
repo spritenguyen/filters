@@ -128,15 +128,3 @@ youtube.com##.html5-endscreen-content
 youtube.com##.html5-endscreen
 youtube.com##.ytp-ce-element
 youtube.com###masthead-ad
-youtube.com##.ytd-rich-item-renderer:has(.ytd-badge-supported-renderer:has-text(Quảng cáo))
-!||www.youtube.com/embed/$domain=voz.vn
-||i1.ytimg.com/vi/aLwqffZyVb0/0.jpg
-||i1.ytimg.com/vi/aLwqffZyVb0/*.jpg$image
-!chặn gợi ý trên trang chủ theo tên kênh
-youtube.com##.ytd-rich-grid-media:has(.ytd-channel-name:has-text(Xoài TV))
-youtube.com##.ytd-rich-grid-media:has(.ytd-channel-name:has-text(T1 Faker))
-!chặn kênh khi vào xem kênh
-youtube.com##.ytd-page-manager:has(.ytd-c4-tabbed-header-renderer:has(.ytd-channel-name:has-text(T1 Faker)))
-youtube.com##.ytd-page-manager:has(.ytd-c4-tabbed-header-renderer:has(.ytd-channel-name:has-text(Xoài TV)))
-youtube.com##.ytd-page-manager:has(.ytd-c4-tabbed-header-renderer:has(.ytd-channel-name:has-text(메듀린)))
-youtube.com##.ytd-page-manager:has(.ytd-c4-tabbed-header-renderer:has(.ytd-channel-name:has-text(Xoài Fam)))
