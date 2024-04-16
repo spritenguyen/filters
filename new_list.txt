@@ -1,3 +1,7 @@
+!2024-04-17
+##.animate-in.adace-slideup-slot-wrap
+##.g1-advertisement-before-content-theme-area.g1-advertisement.g1-row-layout-page.g1-row
+
 !2024-04-11
 ||phimvsub.cc/wp-banner/i9/banner.gif
 ##.movie-banner__flexible.movie-banner
