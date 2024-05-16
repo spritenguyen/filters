@@ -1,6 +1,8 @@
 !2024-05-16
 cafephim.net##.Footer
 ||cafephim.net/*.jpeg
+||cafephim.net/*.gif
+cafephim.net###catfish
 
 !2024-04-17
 ##.animate-in.adace-slideup-slot-wrap
