@@ -1,3 +1,6 @@
+!2024-06-10
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+
 !2024-05-16
 cafephim.net##.Footer
 ||cafephim.net/*.jpeg
