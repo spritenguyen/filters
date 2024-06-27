@@ -1,3 +1,6 @@
+!2024-06-27
+||polyfill.io^
+
 !2024-06-16
 ||hangdangthuc.com/wp-content/themes/hangdangthuc.com/assets/images/banner/banner-shopee-sieu-re.png
 ##[src="https://hangdangthuc.com/wp-content/themes/hangdangthuc.com/assets/images/banner/banner-shopee-sieu-re.png"]
