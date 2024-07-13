@@ -1,8 +1,8 @@
 !2024-07-13
-||imgs2.yodimedia.com/shopee_img/2023/12/07/KESxMqKykJp3wFugac9oRheZQBiaM0VWP8YKZedY.jpg
+||imgs2.yodimedia.com/shopee_img/*
 ##[src="https://imgs2.yodimedia.com/shopee_img/2023/10/12/iGJ9LpaIhUnd2Z71ktbJS0cza5GduMI4clPlsLzv.jpg"]
 ##[href="https://s.shopee.vn/B9C5Akf9q"]
-||imgs2.yodimedia.com/shopee_img/2023/10/12/iGJ9LpaIhUnd2Z71ktbJS0cza5GduMI4clPlsLzv.jpg
+||imgs2.yodimedia.com/shopee_img/2023/10/12/*.jpg
 
 !2024-07-3
 ###myPopup-game
