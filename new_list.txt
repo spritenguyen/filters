@@ -1,3 +1,6 @@
+!2024-07-19
+##.layout__tabset-selected.layout__tab_header_outer
+
 !2024-07-13
 ||imgs2.yodimedia.com/shopee_img/*
 ##[src="https://imgs2.yodimedia.com/shopee_img/2023/10/12/iGJ9LpaIhUnd2Z71ktbJS0cza5GduMI4clPlsLzv.jpg"]
