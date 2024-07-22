@@ -1,8 +1,21 @@
 !2024-07-22
 truyenazz.com.vn###top_ads_chapter_story
 
+||*.jpg
+||*.png
+||*.jpeg
+||*.gif
+||*.bmp
+||*.tiff
+||*.png.*
+||*.jpg.*
+||*.jpeg.*
+||*-png.*
+||*-jpg.*
+||*-jpeg.*
+
 !2024-07-19
-##.layout__tabset-selected.layout__tab_header_outer
+fireant.vn##.layout__tabset-selected.layout__tab_header_outer
 
 !2024-07-13
 ||imgs2.yodimedia.com/shopee_img/*
