@@ -1,0 +1,13 @@
+!block image to save data
+||*.jpg
+||*.png
+||*.jpeg
+||*.gif
+||*.bmp
+||*.tiff
+||*.png.*
+||*.jpg.*
+||*.jpeg.*
+||*-png.*
+||*-jpg.*
+||*-jpeg.*
