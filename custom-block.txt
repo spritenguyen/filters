@@ -1,13 +1,13 @@
 !block image to save data
-||*.jpg$all,domain=~pornhub.com|xvideos.com|missav.com
-||*.png$all,domain=~pornhub.com|xvideos.com|missav.com
-||*.jpeg$all,domain=~pornhub.com|xvideos.com|missav.com
-||*.gif$all,domain=~pornhub.com|xvideos.com|missav.com
-||*.bmp$all,domain=~pornhub.com|xvideos.com|missav.com
-||*.tiff$all,domain=~pornhub.com|xvideos.com|missav.com
-||*.png.*$all,domain=~pornhub.com|xvideos.com|missav.com
-||*.jpg.*$all,domain=~pornhub.com|xvideos.com|missav.com
-||*.jpeg.*$all,domain=~pornhub.com|xvideos.com|missav.com
-||*-png.*$all,domain=~pornhub.com|xvideos.com|missav.com
-||*-jpg.*$all,domain=~pornhub.com|xvideos.com|missav.com
-||*-jpeg.*$all,domain=~pornhub.com|xvideos.com|missav.com
+||*.jpg$all,domain=~pornhub.com
+||*.png$all,domain=~pornhub.com
+||*.jpeg$all,domain=~pornhub.com
+||*.gif$all,domain=~pornhub.com
+||*.bmp$all,domain=~pornhub.com
+||*.tiff$all,domain=~pornhub.com
+||*.png.*$all,domain=~pornhub.com
+||*.jpg.*$all,domain=~pornhub.com
+||*.jpeg.*$all,domain=~pornhub.com
+||*-png.*$all,domain=~pornhub.com
+||*-jpg.*$all,domain=~pornhub.com
+||*-jpeg.*$all,domain=~pornhub.com
