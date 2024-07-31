@@ -1,0 +1,176 @@
+!block image to save data
+!||*.jpg$all,domain=~pornhub.com
+!||*.png$all,domain=~pornhub.com
+!||*.jpeg$all,domain=~pornhub.com
+!||*.gif$all,domain=~pornhub.com
+!||*.bmp$all,domain=~pornhub.com
+!||*.tiff$all,domain=~pornhub.com
+!||*.png.*$all,domain=~pornhub.com
+!||*.jpg.*$all,domain=~pornhub.com
+!||*.jpeg.*$all,domain=~pornhub.com
+!||*-png.*$all,domain=~pornhub.com
+!||*-jpg.*$all,domain=~pornhub.com
+!||*-jpeg.*$all,domain=~pornhub.com
+
+!bat tat trong ublock
+||*.jpg
+||*.png
+||*.jpeg
+||*.gif
+||*.bmp
+||*.tiff
+||*.png.*
+||*.jpg.*
+||*.jpeg.*
+||*-png.*
+||*-jpg.*
+||*-jpeg.*
+||*.jpeg*
+||*.jpg*
+
+!2024-07-22
+truyenazz.com.vn###top_ads_chapter_story
+
+!2024-07-19
+fireant.vn##.layout__tabset-selected.layout__tab_header_outer
+
+!2024-07-13
+||imgs2.yodimedia.com/shopee_img/*
+##[src="https://imgs2.yodimedia.com/shopee_img/2023/10/12/iGJ9LpaIhUnd2Z71ktbJS0cza5GduMI4clPlsLzv.jpg"]
+##[href="https://s.shopee.vn/B9C5Akf9q"]
+||imgs2.yodimedia.com/shopee_img/2023/10/12/*.jpg
+
+!2024-07-3
+###myPopup-game
+||nettruyenaa.com/public/assets/images/loading-small.gif
+
+!2024-06-27
+||polyfill.io^
+
+!2024-06-16
+||hangdangthuc.com/wp-content/themes/hangdangthuc.com/assets/images/banner/banner-shopee-sieu-re.png
+##[src="https://hangdangthuc.com/wp-content/themes/hangdangthuc.com/assets/images/banner/banner-shopee-sieu-re.png"]
+
+!2024-06-14
+###mp-preload-pp-overlay
+||imgyn.imageshh.com/*.jpg
+
+!2024-06-10
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+
+!2024-05-16
+cafephim.net##.Footer
+||cafephim.net/*.jpeg
+||cafephim.net/*.gif
+cafephim.net###catfish
+
+!2024-04-17
+##.animate-in.adace-slideup-slot-wrap
+##.g1-advertisement-before-content-theme-area.g1-advertisement.g1-row-layout-page.g1-row
+
+!2024-04-11
+||phimvsub.cc/wp-banner/i9/banner.gif
+##.movie-banner__flexible.movie-banner
+
+!2024-04-08
+vivufilm.com##[href="https://casino789club.top/"] > .ads
+||casino789club.top/wp-content/uploads/2024/03/casino789club.top-banner.gif$image
+nettruyenco.vn##.scroll-up.scroll-to-fixed-fixed.chapter-nav
+
+!2024-03-16
+##.ads.container
+
+! 2024-03-09
+##.sda-catfish.sda-wrapper
+||cdn.jsdelivr.net/gh/lamarhunt32546/tvc/i9btq.mp4
+
+! 2024-03-05 https://vivufilm.com
+||vivufilm.com/img/item_bgg.gif$image
+vivufilm.com##.block-comments.page-single.block-wrapper
+||vivufilm.com/data/close_button.png$image
+
+! 2024-02-11 https://vivufilm.com
+||vivufilm.com/*.gif$image
+vivufilm.com##[href^="https://missbet1.com/"] > .ads
+vivufilm.com###pv-float-bar-container
+
+voz.vn##.js-notice.notice
+!voz.vn
+!remove slidebar voz.vn
+voz.vn##[class^="p-body-sidebar"]
+!can chinh voz.vn
+!voz.vn##.p-body:style(padding-left : 30px !important)
+!voz.vn##.p-body:style(padding-right : 30px !important)
+!voz.vn##.js-offCanvasNavSource.p-nav-list > li:nth-of-type(4)
+voz.vn##.message-inner:has(.message-name:has-text(gaconkute))
+voz.vn##.message-inner:has(.message-name:has-text(gelu567890))
+voz.vn##.node-body:has(.node-title:has-text(Góp ý))
+voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hồi ức về hệ điều hành Symbian (1998-2010)))
+voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hội chơi cáp và sạc - Tất tần tật về công nghệ, thương hiệu, khuyến mại,...))
+voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Thảo luận về root bằng Magisk, module, giải pháp ẩn root cho phiên bản mới (24+)))
+voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hội Chinese phone))
+truyen35.vn##+js(acs, jQuery, click_ads)
+123truyenfull.com##+js(acs, jQuery, click_ads)
+||bf.333xbet.com/*/*.mp4
+*.mp4^$domain=90phut9.live|thapcam.net|vebo3.org|xoilac12.org|90phut.click|4shares.live
+*.gif^$domain=90phut9.live|thapcam.net|vebo3.org|xoilac12.org|4shares.live
+||photo2.tinhte.vn/data/attachment-files/*/*/*.gif$image
+!vnexpress.net
+vnexpress.net##.inner_section:has(.title_news:has-text(Huỳnh Như))
+vnexpress.net##.inner_section:has(.title_news:has-text(Messi))
+vnexpress.net##.flexbox.full-thumb:has(.title-news:has-text(Lương Thùy Linh))
+vnexpress.net##.flexbox.full-thumb:has(.title-news:has-text(Tiểu Vy))
+vnexpress.net##.art_with_border:has(.title_news:has-text(Blackpink))
+!vnexpress.net##.init-preloaded:has(h1>.play_video:has-text(Blackpink))
+vnexpress.net##.init-preloaded:has(.play_video:has-text(Blackpink))
+vnexpress.net##.gaBoxLinkDisplay:has(.title_news:has-text(Blackpink))
+vnexpress.net##.inner_section:has(.title_news:has-text(Blackpink))
+vnexpress.net##article.full-thumb.item-news:has(.title_news:has-text(Blackpink))
+vnexpress.net##.news_home:has(.title_news,.short_intro:has-text(Lương Thùy Linh))
+vnexpress.net##.news_home:has(.short_intro:has-text(Giáng My))
+vnexpress.net##.wrapper_detail:has(.title_video:has-text(Blackpink))
+vnexpress.net##.item-news-common:has(.description:has-text(Blackpink))
+vnexpress.net##.article-topstory:has(.description:has-text(Blackpink))
+vnexpress.net##.item-gocnhin:has(.title-news:has-text(Blackpink))
+vnexpress.net##.item-gocnhin:has(.description:has-text(Blackpink))
+! 2023-08-03 https://www.nhaccuatui.com
+www.nhaccuatui.com##.new_header.sub-menu-header
+||stc-id.nixcdn.com/v11/images/www_index_top_banner2.jpg
+! 2023-08-18 https://didongviet.vn
+||didongviet.vn/dchannel/wp-content/uploads/2023/04/1050-x-450.png$image
+||page.widget.zalo.me/$subdocument
+didongviet.vn##.adinsertmobile
+didongviet.vn##.zalo-chat-widget
+!web xem phim
+! 2023-08-05 https://phimtho.tv
+phimtho.tv###popup_banner_beta
+||phimtho.tv/ads/popup/i9bet85/400x300.jpg
+! 2023-08-18 https://motchilltv.info
+motchilltv.info##.banner-flex
+||motchilltv.info/close_button.png
+! 2023-07-31 https://tvday.me
+tvday.me##.a--d-wrapper
+!||i.imgur.com/*.jpg
+tvday.me##.float-ck-center-lt
+tvday.me##div.text-center.widget_text > .custom-html-widget.textwidget
+! 2022-11-21 https://xvideos98.xxx
+||qph.fs.quoracdn.net/main-qimg-5d5568c87bf7bfb62c8d35ab7664c35c$image
+||qph.fs.quoracdn.net/$image
+||qph.cf2.quoracdn.net/main-qimg-20cf473505c674c937df7fb6333ea863$image
+||qph.cf2.quoracdn.net/$image
+! 2022-11-26 https://haysex.net
+||vlxyz.tv/themes/img/*.jpeg$image
+! 2022-11-22 https://biphims.com
+||a.cdn-img.net/*.gif$image
+||cdn2-img.net/*.gif$image
+biphim.to##.box_odds
+biphims.co###ads_top2
+! 2022-12-06 https://subnhanhz.net
+||subnhanhz.net/logo1.png$image
+! 2022-12-13 https://thichxemphim.net
+||thichxemphim.net/cdn-cgi/mirage/d05ded768986a1fadf753d92cab361f80e1bfd0b61b4f955fb25e73c355b9cf2/1280/https://txp-storage.sgp1.digitaloceanspaces.com/wp-content/uploads/2022/12/11142953/i9-11122022.jpeg$image
+thichxemphim.net##.popup-banners
+||thichxemphim.net/cdn-cgi/mirage/d05ded768986a1fadf753d92cab361f80e1bfd0b61b4f955fb25e73c355b9cf2/1280/https://txp-storage.sgp1.digitaloceanspaces.com/wp-content/uploads/2022/11/23090502/fb88_wc2022-2.gif$image
+||thichxemphim.net/cdn-cgi/mirage/d05ded768986a1fadf753d92cab361f80e1bfd0b61b4f955fb25e73c355b9cf2/1280/https://txp-storage.sgp1.digitaloceanspaces.com/wp-content/uploads/2022/12/08094142/728-x-90-VTN.gif$image
+! 2023-07-29 https://iamscum.wordpress.com
+iamscum.wordpress.com##.ads-active.hide-on-button
