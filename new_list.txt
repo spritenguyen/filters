@@ -1,3 +1,6 @@
+!2024-08-12: chan style voz
+!voz.vn##.message-body,html,htmlbutton,input,optgroup,select,textarea,.fr-box.fr-basic .fr-element:style(font-size:18px !important)
+
 !2024-07-22
 truyenazz.com.vn###top_ads_chapter_story
 
