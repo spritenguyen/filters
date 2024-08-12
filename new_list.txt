@@ -1,5 +1,7 @@
 !2024-08-12:
 !voz.vn##.message-body,html,htmlbutton,input,optgroup,select,textarea,.fr-box.fr-basic .fr-element:style(font-size:18px !important)
+!chan toan bo style cua mot phan tu
+!voz.vn##.class-name:style(all:unset !important)
 msn.com$font
 !voz.vn$font
 !2024-07-22
