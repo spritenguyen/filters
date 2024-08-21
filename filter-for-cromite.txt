@@ -1,0 +1,2 @@
+voz.vn##.message-body,html,htmlbutton,input,optgroup,select,textarea,.fr-box.fr-basic .fr-element:style(font-size:18px !important)
+msn.com$font
