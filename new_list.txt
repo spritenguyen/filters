@@ -1,4 +1,4 @@
-!2024-08-29 chan mot so js yt
+!2024-08-29 
 m.youtube.com##+js(aeld, visibilitychange, /bgmobile|\{\w\.\w+\(\)\}/)
 m.youtube.com##+js(aeld, /^(?:pause|play$)/, dispatchEvent, elements, video)
 m.youtube.com##+js(set-attr, video, controls, true)
