@@ -8,16 +8,16 @@ m.youtube.com##+js(aeld, visibilitychange, /bgmobile|\{\w\.\w+\(\)\}/)
 ! Add controls to youtube mobile
 m.youtube.com##+js(aeld, /^(?:pause|play$)/, dispatchEvent, elements, video)
 m.youtube.com##+js(set-attr, video, controls, true)
-m.youtube.com###player-control-overlay:style(bottom: 90% !important;)
-m.youtube.com##.player-controls-background-container
-m.youtube.com##player-middle-controls
-m.youtube.com##player-bottom-controls
-m.youtube.com##yt-progress-bar:style(top: 0 !important; left: 10px !important; right: 150px !important;)
-m.youtube.com##.ytp-autohide:style(cursor: auto !important;)
-m.youtube.com##.player-controls-top.with-video-details:style(width: 14% !important;)
-m.youtube.com###player-control-overlay.fadein yt-progress-bar:style(visibility: visible !important;)
-m.youtube.com###player-control-overlay.fadein yt-player-storyboard:style(visibility: visible !important;)
-m.youtube.com###player-control-overlay.fadein .YtPlayerStoryboardHost:style(bottom: -80px !important;)
+!m.youtube.com###player-control-overlay:style(bottom: 90% !important;)
+!m.youtube.com##.player-controls-background-container
+!m.youtube.com##player-middle-controls
+!m.youtube.com##player-bottom-controls
+!m.youtube.com##yt-progress-bar:style(top: 0 !important; left: 10px !important; right: 150px !important;)
+!m.youtube.com##.ytp-autohide:style(cursor: auto !important;)
+!m.youtube.com##.player-controls-top.with-video-details:style(width: 14% !important;)
+!m.youtube.com###player-control-overlay.fadein yt-progress-bar:style(visibility: visible !important;)
+!m.youtube.com###player-control-overlay.fadein yt-player-storyboard:style(visibility: visible !important;)
+!m.youtube.com###player-control-overlay.fadein .YtPlayerStoryboardHost:style(bottom: -80px !important;)
 
 !2024-08-12:
 !voz.vn##.message-body,html,htmlbutton,input,optgroup,select,textarea,.fr-box.fr-basic .fr-element:style(font-size:18px !important)
