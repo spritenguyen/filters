@@ -18,7 +18,7 @@ m.youtube.com##.player-controls-top.with-video-details:style(width: 14% !importa
 m.youtube.com###player-control-overlay.fadein yt-progress-bar:style(visibility: visible !important;)
 m.youtube.com###player-control-overlay.fadein yt-player-storyboard:style(visibility: visible !important;)
 m.youtube.com###player-control-overlay.fadein .YtPlayerStoryboardHost:style(bottom: -80px !important;)
-
+! giữ nguyên kích thước hình ảnh
 m.youtube.com##video:style(object-fit: contain !important;)
 
 
