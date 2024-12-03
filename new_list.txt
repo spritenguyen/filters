@@ -19,6 +19,9 @@ m.youtube.com###player-control-overlay.fadein yt-progress-bar:style(visibility: 
 m.youtube.com###player-control-overlay.fadein yt-player-storyboard:style(visibility: visible !important;)
 m.youtube.com###player-control-overlay.fadein .YtPlayerStoryboardHost:style(bottom: -80px !important;)
 
+m.youtube.com##video:style(object-fit: contain !important;)
+
+
 !2024-08-12:
 !voz.vn##.message-body,html,htmlbutton,input,optgroup,select,textarea,.fr-box.fr-basic .fr-element:style(font-size:18px !important)
 !chan toan bo style cua mot phan tu
