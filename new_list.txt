@@ -21,8 +21,14 @@ m.youtube.com###player-control-overlay.fadein .YtPlayerStoryboardHost:style(bott
 m.youtube.com##video:style(object-fit: contain !important;)
 ! giữ nguyên kích thước hình ảnh, không kéo, cắt
 m.youtube.com##video:style(width: 100% !important; height: auto !important;)
+! video theo chiều dọc
+m.youtube.com##.short-video-controls:style(display: block !important;)
+m.youtube.com##.shorts-player-controls:style(display: block !important;)
+m.youtube.com##.shorts-progress-bar:style(display: block !important;)
+m.youtube.com##.shorts-player-controls-container:style(display: flex !important; justify-content: space-between !important;)
+m.youtube.com##.shorts-progress-bar:style(height: 4px !important; background: rgba(255, 255, 255, 0.6) !important;)
 m.youtube.com##.ytp-fullscreen-button:style(display: block !important;)
-m.youtube.com##.ytp-progress-bar-container:style(display: block !important;)
+
 
 
 
