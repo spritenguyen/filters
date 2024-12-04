@@ -18,8 +18,12 @@ m.youtube.com##.player-controls-top.with-video-details:style(width: 14% !importa
 m.youtube.com###player-control-overlay.fadein yt-progress-bar:style(visibility: visible !important;)
 m.youtube.com###player-control-overlay.fadein yt-player-storyboard:style(visibility: visible !important;)
 m.youtube.com###player-control-overlay.fadein .YtPlayerStoryboardHost:style(bottom: -80px !important;)
-! giữ nguyên kích thước hình ảnh
 m.youtube.com##video:style(object-fit: contain !important;)
+! giữ nguyên kích thước hình ảnh, không kéo, cắt
+m.youtube.com##video:style(width: 100% !important; height: auto !important;)
+m.youtube.com##.ytp-fullscreen-button:style(display: block !important;)
+m.youtube.com##.ytp-progress-bar-container:style(display: block !important;)
+
 
 
 !2024-08-12:
