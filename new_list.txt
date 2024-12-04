@@ -21,18 +21,6 @@ m.youtube.com###player-control-overlay.fadein .YtPlayerStoryboardHost:style(bott
 ! giữ nguyên hình ảnh, không cắt, zoom
 m.youtube.com##video:style(object-fit: contain !important;)
 
-/* Hiển thị các thanh điều khiển trên video dạng "Shorts" */
-m.youtube.com##.short-video-controls:style(display: block !important;)
-m.youtube.com##.shorts-player-controls:style(display: block !important;)
-m.youtube.com##.shorts-progress-bar:style(display: block !important;)
-m.youtube.com##.shorts-player-controls-container:style(display: flex !important; justify-content: space-between !important;)
-m.youtube.com##.shorts-progress-bar:style(height: 4px !important; background: rgba(255, 255, 255, 0.6) !important;)
-m.youtube.com##.ytp-fullscreen-button:style(display: block !important;)
-
-
-
-
-
 !2024-08-12:
 !voz.vn##.message-body,html,htmlbutton,input,optgroup,select,textarea,.fr-box.fr-basic .fr-element:style(font-size:18px !important)
 !chan toan bo style cua mot phan tu
