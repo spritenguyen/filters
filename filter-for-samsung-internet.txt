@@ -102,37 +102,14 @@ voz.vn##[class^="p-body-sidebar"]
 !voz.vn##.p-body:style(padding-left : 30px !important)
 !voz.vn##.p-body:style(padding-right : 30px !important)
 !voz.vn##.js-offCanvasNavSource.p-nav-list > li:nth-of-type(4)
-voz.vn##.message-inner:has(.message-name:has-text(gaconkute))
-voz.vn##.message-inner:has(.message-name:has-text(gelu567890))
-voz.vn##.node-body:has(.node-title:has-text(Góp ý))
-voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hồi ức về hệ điều hành Symbian (1998-2010)))
-voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hội chơi cáp và sạc - Tất tần tật về công nghệ, thương hiệu, khuyến mại,...))
-voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Thảo luận về root bằng Magisk, module, giải pháp ẩn root cho phiên bản mới (24+)))
-voz.vn##.structItem--thread.structItem:has(.structItem-title:has-text(Hội Chinese phone))
+
 truyen35.vn##+js(acs, jQuery, click_ads)
 123truyenfull.com##+js(acs, jQuery, click_ads)
 ||bf.333xbet.com/*/*.mp4
 *.mp4^$domain=90phut9.live|thapcam.net|vebo3.org|xoilac12.org|90phut.click|4shares.live
 *.gif^$domain=90phut9.live|thapcam.net|vebo3.org|xoilac12.org|4shares.live
 ||photo2.tinhte.vn/data/attachment-files/*/*/*.gif$image
-!vnexpress.net
-vnexpress.net##.inner_section:has(.title_news:has-text(Huỳnh Như))
-vnexpress.net##.inner_section:has(.title_news:has-text(Messi))
-vnexpress.net##.flexbox.full-thumb:has(.title-news:has-text(Lương Thùy Linh))
-vnexpress.net##.flexbox.full-thumb:has(.title-news:has-text(Tiểu Vy))
-vnexpress.net##.art_with_border:has(.title_news:has-text(Blackpink))
-!vnexpress.net##.init-preloaded:has(h1>.play_video:has-text(Blackpink))
-vnexpress.net##.init-preloaded:has(.play_video:has-text(Blackpink))
-vnexpress.net##.gaBoxLinkDisplay:has(.title_news:has-text(Blackpink))
-vnexpress.net##.inner_section:has(.title_news:has-text(Blackpink))
-vnexpress.net##article.full-thumb.item-news:has(.title_news:has-text(Blackpink))
-vnexpress.net##.news_home:has(.title_news,.short_intro:has-text(Lương Thùy Linh))
-vnexpress.net##.news_home:has(.short_intro:has-text(Giáng My))
-vnexpress.net##.wrapper_detail:has(.title_video:has-text(Blackpink))
-vnexpress.net##.item-news-common:has(.description:has-text(Blackpink))
-vnexpress.net##.article-topstory:has(.description:has-text(Blackpink))
-vnexpress.net##.item-gocnhin:has(.title-news:has-text(Blackpink))
-vnexpress.net##.item-gocnhin:has(.description:has-text(Blackpink))
+
 ! 2023-08-03 https://www.nhaccuatui.com
 www.nhaccuatui.com##.new_header.sub-menu-header
 ||stc-id.nixcdn.com/v11/images/www_index_top_banner2.jpg
