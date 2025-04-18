@@ -13,20 +13,22 @@
 !||*-jpeg.*$all,domain=~pornhub.com
 
 !bat tat trong ublock
-||*.jpg
-||*.png
-||*.jpeg
-||*.gif
-||*.bmp
-||*.tiff
-||*.png.*
-||*.jpg.*
-||*.jpeg.*
-||*-png.*
-||*-jpg.*
-||*-jpeg.*
-||*.jpeg*
-||*.jpg*
+!||*.jpg
+!||*.png
+!||*.jpeg
+!||*.gif
+!||*.bmp
+!||*.tiff
+!||*.png.*
+!||*.jpg.*
+!||*.jpeg.*
+!||*-png.*
+!||*-jpg.*
+!||*-jpeg.*
+!||*.jpeg*
+!||*.jpg*
+||*$image
+@@||voz.vn^$image
 
 !2024-07-22
 truyenazz.com.vn###top_ads_chapter_story
