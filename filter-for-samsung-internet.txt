@@ -27,8 +27,6 @@
 !||*-jpeg.*
 !||*.jpeg*
 !||*.jpg*
-||*$image
-@@||voz.vn^$image
 
 !2024-07-22
 truyenazz.com.vn###top_ads_chapter_story
