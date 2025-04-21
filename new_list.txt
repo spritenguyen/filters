@@ -7,27 +7,6 @@
 !2024-08-30 tat css nang
 !*##*:style(border-radius:unset!important;box-shadow:unset!important;text-shadow:unset!important;text-transform:unset!important;animation-iteration-count:1!important;scroll-behavior:unset!important;moz-animation-iteration-count:1!important;webkit-animation-iteration-count:1!important;backdrop-filter:unset!important;filter:unset!important;animation-timing-function:step-start!important;transition-timing-function:step-start!important;filter:none!important;text-rendering:none!important;clip-path:unset!important)
 
-!2024-08-29 yt mobile
-! Defuse background playback prevention
-m.youtube.com##+js(aeld, visibilitychange, /bgmobile|\{\w\.\w+\(\)\}/)
-
-! Add controls to youtube mobile
-!m.youtube.com##+js(aeld, /^(?:pause|play$)/, dispatchEvent, elements, video)
-!m.youtube.com##+js(set-attr, video, controls, true)
-!m.youtube.com###player-control-overlay:style(bottom: 85% !important;) /* Hạ thấp overlay một chút để không che nội dung */
-!m.youtube.com##.player-controls-background-container
-!m.youtube.com##player-middle-controls
-!m.youtube.com##player-bottom-controls
-!m.youtube.com##yt-progress-bar:style(top: 5px !important; left: 20px !important; right: 140px !important;) /* Căn chỉnh thanh tiến trình mềm mại hơn */
-!m.youtube.com##.ytp-autohide:style(cursor: auto !important;)
-!m.youtube.com##.player-controls-top.with-video-details:style(width: 18% !important;) /* Tăng một chút chiều rộng để không làm giao diện quá hẹp */
-!m.youtube.com###player-control-overlay.fadein yt-progress-bar:style(visibility: visible !important;)
-!m.youtube.com###player-control-overlay.fadein yt-player-storyboard:style(visibility: visible !important;)
-!m.youtube.com###player-control-overlay.fadein .YtPlayerStoryboardHost:style(bottom: -60px !important;) /* Điều chỉnh vị trí Storyboard hợp lý hơn */
-!Giữ nguyên hình ảnh, không cắt hoặc zoom
-!m.youtube.com##video:style(object-fit: contain !important;)
-
-
 !2024-08-12:
 !voz.vn##.message-body,html,htmlbutton,input,optgroup,select,textarea,.fr-box.fr-basic .fr-element:style(font-size:18px !important)
 !chan toan bo style cua mot phan tu
